@@ -2,7 +2,7 @@ body{
     font:15px/1.5 Arial, Helvetica, sans-serif;
     padding:0;
     margin:0;
-    background-color:#f4f6;
+    background-color:#fcbdf9;
 }
 
 .container{
@@ -17,9 +17,9 @@ ul{
 }
 
 header{
-    background:#35424a;
-    color:#ffffff;
-    padding-top:30px;
+    background:url("plant.jpg")no-repeat;
+    background-size: 1100px 500px;
+    padding-top:125px;
     min-height:70px;
     border-bottom:#e8491d 3px solid;
 }
