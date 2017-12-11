@@ -16,6 +16,15 @@ ul{
     padding:0;
 }
 
+.button_1{
+    height:38px;
+    background:#e84;
+    border:0;
+    padding-left:20px;
+    padding-right:20px;
+    color:#ffffff;
+}
+
 header{
     background:url("korea.jpg") no-repeat;
 
@@ -84,6 +93,7 @@ header a:hover{
     
 }
 
+
 #newsletter{
     padding:15px;
     color:#ffffff;
@@ -99,10 +109,35 @@ header a:hover{
     margin-top:15px;
 }
 
+#newsletter input[type="email"]{
+    padding:4px;
+    height:25px;
+    width:250px;
+}
 
+#boxes{
+    margin-top:20px;
+    
+}
 
+#boxes .box{
+    float:left;
+    text-align: center;
+    width:30%;
+    padding:10px;
+}
 
+#boxes .box img{
+    width:90px;
+}
 
+footer{
+    padding:20px;
+    margin-top:20px;
+    color:#ffffff;
+    background-color:e8491d#;
+    text-align:Scenter;
+}
 
 
 
