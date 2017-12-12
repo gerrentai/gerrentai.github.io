@@ -25,6 +25,14 @@ ul{
     color:#ffffff;
 }
 
+.dark{
+    padding:15px;
+    background:#35424a;
+    color:#ffffff;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
 header{
     background:url("korea.jpg") no-repeat;
 
@@ -129,6 +137,17 @@ header a:hover{
 
 #boxes .box img{
     width:90px;
+}
+
+aside#sidebar{
+    float:right;
+    width:30%;
+    margin-top:10px;
+}
+
+article#main-col{
+    float:left;
+    width:65%;
 }
 
 footer{
