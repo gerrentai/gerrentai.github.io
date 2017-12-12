@@ -30,13 +30,13 @@ header{
 
     background-size: 1220px 920px;
     padding-top:125px;
-    min-height:70px;
-    border-bottom:#e8491d 3px solid;
+    min-height:20px;
+    border-bottom:#e84 3px solid;
 }
 
 
 header a{
-    color:#ffffff; 
+    color:#000000; 
     text-decoration:none;
     text-transform: uppercase;
     font-size:16px;
@@ -56,7 +56,7 @@ header #branding{
 }
 
 header #branding h1{
-    margin:0;
+    margin:70px 10px;
 }
 
 header nav{
@@ -65,7 +65,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-    color:#e8491d;
+    color:#e84;
     font-weight:bold;
 }
 
@@ -97,7 +97,7 @@ header a:hover{
 #newsletter{
     padding:15px;
     color:#ffffff;
-    background:#35424a
+    background:#681e54
 }
 
 #newsletter h1{
@@ -135,10 +135,17 @@ footer{
     padding:20px;
     margin-top:20px;
     color:#ffffff;
-    background-color:e8491d#;
-    text-align:Scenter;
+    background-color:#e84;
+    text-align:center;
 }
 
+foster{
+    padding:20px;
+    margin-top:20px;
+    color:#ffffff;
+    background-color:#e8419d;
+    text-align:center;
+}
 
 
 
