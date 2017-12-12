@@ -36,7 +36,7 @@ ul{
 header{
     background:url("korea.jpg") no-repeat;
 
-    background-size: 1220px 920px;
+    background-size: 1440px 820px;
     padding-top:125px;
     min-height:20px;
     border-bottom:#e84 3px solid;
@@ -70,6 +70,11 @@ header #branding h1{
 header nav{
     float:right;
     margin-top:10px;
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
 
 header .highlight, header .current a{
@@ -84,7 +89,7 @@ header a:hover{
 
 
 #showcase{
-    min-height:400px;
+    min-height:175px;
     background:url('../img/korea.jpg') no-repeat 0 -400px;
     text-align:center;
     color:#ffffff;
