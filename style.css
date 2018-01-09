@@ -101,11 +101,20 @@ header a:hover{
     margin-bottom:10px;
 }
 
+#coverage h3{
+    margin-top:30px;
+    font-size:15px;
+    margin-bottom:10px;
+}
+#coverage h1{
+    margin-top:30px;
+    font-size:20px;
+    margin-bottom:10px;
+}
 #showcase p{
     font-size:20px;
     
 }
-
 
 #newsletter{
     padding:15px;
@@ -136,6 +145,12 @@ header a:hover{
 #boxes .box{
     float:left;
     text-align: center;
+    width:30%;
+    padding:10px;
+}
+#boxes .box1{
+    float:right;
+    text-align: right;
     width:30%;
     padding:10px;
 }
